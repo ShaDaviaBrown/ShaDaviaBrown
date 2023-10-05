@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ShaDavia!
+- 👀 I’m interested in networking!
+- 🌱 I’m currently towards my Frontend Development Nanodegree with Udacity
+- 💞️ I’m looking forward to growing as a Frontend Developer
+- 📫 Reach out! https://www.linkedin.com/in/shadavia-brown-259b92248/
